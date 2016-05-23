@@ -17,6 +17,10 @@ server takes the roll number as input and returns student details or takes roll 
 student can post files or get files. when they do that activity client transfers the files to server (similar to ftp) and saves them in file system. for each student by roll number you can have a file names or folders creatted on server. when student want to GET and if the file is present, its transfered to the client local directory.
 file creation, viewing is not part of this excercise. any file can be transfered using this method.
 
-database is a 1MB file that you create and student details and marks are in that database. similarly server takes roll number and year1 or year2 as input and returns marks or takes all marks/rollno/year1 or year2 as input and save in the database.
+you have to implement the client, server and database parts of this project all by yourselves, working with your team and submit by monday evening 7pm in facebook.
 
-student can post files or get files. when they do that activity client transfers the files to server (similar to ftp) and saves them in file system. for each student by roll number we have a directory.
+e in a database. database is a 1MB file that you create (like you did earlier in file system for messages) and student details and marks are in that database. similarly server takes roll number and year1 or year2 as input and returns marks or takes all marks/rollno/year1 or year2 as input and save in the database.
+
+database is what you need to create in the 1MB file using structures.
+
+student can post files or get files. when they do that activity client transfers the files to server (similar to ftp) and saves them in file system. for each student by roll number you can have a file names or f¤¤¤¤ллллллллю■ю■
